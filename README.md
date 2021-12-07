@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrew-mele
-- 👀 I’m interested in becoming a Junior Web Developer, and continue learning the fundementals of coding.
+- 👀 I’m interested in becoming a Web Developer, and continue learning the fundementals of coding.
 - 🌱 I’m currently learning HTML5, CSS & JavaScript
 
 <!---
