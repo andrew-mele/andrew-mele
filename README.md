@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrew-mele
 - 👀 I’m interested in becoming a Web Developer, and continue learning the fundementals of coding.
-- 🌱 I’m currently learning HTML5, CSS & JavaScript
+- 🌱 I’m currently attending Coding Dojo to further my Software Development Career!
 
 <!---
 andrew-mele/andrew-mele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
