@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrew-mele
-- 👀 I’m interested in becoming a Software Developer, and continue learning & having fun with coding.
+- 👀 I’m interested in becoming a Software Developer, and to continue learning & having fun with coding.
 - 🌱 I’m currently attending Coding Dojo to further my Software Development Career!
 - ✌️ I enjoy Hiking 🌄 , Cooking 🍗 , Playing Sports ⛳️ , and Gaming 👾!
 <!---
