@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrew-mele
-- 👀 I’m interested in becoming a Software Developer, and to continue learning & having fun with coding.
-- 🌱 I’m currently attending Coding Dojo to further my Software Development Career!
+- 👀 I’m a Software Developer in training at Coding Dojo, and love continuing to learn & having fun with coding.
+- 🌱 I’m currently studying more in depth CSS, HTML & Javascript!
 - ✌️ I enjoy Hiking 🌄 , Cooking 🍗 , Playing Sports ⛳️ , and Gaming 👾!
 <!---
 andrew-mele/andrew-mele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
