@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrew-mele
-- 👀 I’m a Software Developer in training at Coding Dojo, and love continuing to learn & having fun with coding.
+- 👀 A Software Developer in training at Coding Dojo, and love continuing to learn & having fun with coding.
 - 🌱 I’m currently studying more in depth CSS, HTML & Javascript!
 - ✌️ I enjoy Hiking 🌄 , Cooking 🍗 , Playing Sports ⛳️ , and Gaming 👾!
 <!---
